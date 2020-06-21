@@ -12,6 +12,7 @@ class Main {
         while (n * n <= N) {
             System.out.println(n * n);
             n++;
+
         }
     }
 }
