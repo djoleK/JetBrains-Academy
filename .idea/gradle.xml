@@ -12,6 +12,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Bus tour" />
             <option value="$PROJECT_DIR$/Problems/Check the given numbers are different" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Chocolate" />
@@ -22,6 +23,7 @@
             <option value="$PROJECT_DIR$/Problems/Queens" />
             <option value="$PROJECT_DIR$/Problems/Size of parts" />
             <option value="$PROJECT_DIR$/Problems/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Problems/The (un)-ordered sequence" />
             <option value="$PROJECT_DIR$/Problems/The largest element of a sequence" />
             <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
             <option value="$PROJECT_DIR$/Problems/The smallest value" />
